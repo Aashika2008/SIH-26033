@@ -11,7 +11,7 @@ Agriculture and Rural Development – Digital Agriculture and Supply Chain Manag
 # 4. Problem Description
 Farmers often depend on multiple intermediaries (middlemen) to sell their agricultural products. Each intermediary adds extra charges and profit margins, reducing the income received by farmers and increasing the prices paid by consumers. This creates an unfair pricing system and affects both farmers and customers. Lack of direct market access, proper storage and transportation facilities makes the problem worse.
 # 5. Proposed Solution
-Develop a Farmer-to-Consumer Digital Marketplace that connects farmers directly with consumers.
+Develop a Farmer-to-Consumer Digital Marketplace that connects farmers directly with consumers
  # 6.GPS Integration: Connect nearby farmers with consumers based on location.
 Payment Gateway: Enable secure digital payments.
 Database Management: Store farmer details, product information and order records.
