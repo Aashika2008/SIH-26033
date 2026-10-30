@@ -20,7 +20,7 @@ Real-Time Price Updates: Display current market prices to help farmers make bett
 Technical Feasibility: The platform can be developed using existing technologies such as React.js, Node.js, MongoDB and GPS services.
 Economic Feasibility: Development and maintenance costs can be managed through government support and agricultural organizations.
 Operational Feasibility: Farmers and consumers can use the platform through smartphones.
-Scalability: The platform can initially serve a small village and later expand to multiple districts and states.
+Scalability: The platform can initially serve a small village and later expand to multiple districts and states
 # 8. Impact and Benefits
 Higher Farmer Income: Farmers can receive a better share of the selling price.
 Affordable Prices: Consumers can purchase products at reasonable prices.
